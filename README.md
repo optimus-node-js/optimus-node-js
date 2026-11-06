@@ -63,7 +63,7 @@ I'm a **Senior Full Stack Developer** from **Ahmedabad, India**, who architects 
 | [**algoFinance**](https://github.com/optimus-node-js/algoFinance) | Microservice algo-trading platform: Kafka, Redis, sentiment, risk, AI signals | Python · FastAPI · Kafka · Docker |
 | [**Finance-Algo**](https://github.com/optimus-node-js/Finance-Algo) | NSE paper-trading engine with momentum scanner and tax-aware ledger | FastAPI · Postgres · Angel One |
 | [**Vega Copy Trading**](https://github.com/optimus-node-js/Vega_CopyTrading_Platform) | Copy-trading and trade-analytics engine with self-destruct mode, from 2022 | Python · MongoDB · Matplotlib |
-| [**ExpenseTracker**](https://github.com/optimus-node-js/ExpenseTracker) | Personal finance manager with PDF/Excel bank-statement import | React · TS · Express · MongoDB |
+| [**ExpenseTracker**](https://github.com/optimus-node-js/ExpenseTracker) · [live](https://expense-tracker-rv.vercel.app) | Personal finance manager with PDF/Excel bank-statement import | React · TS · Express · MongoDB |
 | [**VaultLove**](https://github.com/optimus-node-js/VaultLove) | Encrypted couples' memory vault with biometric lock and realtime chat | Expo · React Native · Firebase |
 | [**SmartTranslator**](https://github.com/optimus-node-js/smartTranslator) · [live](https://smart-translator.vercel.app) | Real-time translator for 100+ languages | MERN · MUI |
 | [**StillBroken**](https://github.com/optimus-node-js/StillBroken) · [live](https://stillbroken.vercel.app) | Civic accountability: every reported local problem stays public, with status and timeline, until it is fixed | MERN · Vite · Vercel |
@@ -76,7 +76,7 @@ I'm a **Senior Full Stack Developer** from **Ahmedabad, India**, who architects 
 - [MarketMind-AI](https://github.com/optimus-node-js/MarketMind-AI): AI market-analysis platform with Angel One integration
 - [AlgoDividendo](https://github.com/optimus-node-js/AlgoDividendo): Angel One portfolio and dividend automation (multithreaded and asyncio)
 - [DividendROI-Calculator](https://github.com/optimus-node-js/DividendROI-Calculator): earnable-dividend calculator for your capital
-- [dividend-fetch-server](https://github.com/optimus-node-js/dividend-fetch-server) · [Dividend-Fetcher](https://github.com/optimus-node-js/Dividend-Fetcher) · [AlgoDividend](https://github.com/optimus-node-js/AlgoDividend): Moneycontrol dividend API, CLI and scraper
+- [dividend-fetch-server](https://github.com/optimus-node-js/dividend-fetch-server) ([live](https://divident-fetch-server.vercel.app)) · [Dividend-Fetcher](https://github.com/optimus-node-js/Dividend-Fetcher) · [AlgoDividend](https://github.com/optimus-node-js/AlgoDividend): Moneycontrol dividend API, CLI and scraper
 - [PortfolioTrackerNode](https://github.com/optimus-node-js/PortfolioTrackerNode): Node.js tracker with live Socket.IO logs
 - [StockAverage](https://github.com/optimus-node-js/StockAverageSelfDestructWorking) and [DBMSOfStockAverage](https://github.com/optimus-node-js/DBMSOfStockAverage): 2023 trade-analytics engine and its data services
 
