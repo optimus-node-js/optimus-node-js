@@ -65,7 +65,7 @@ I'm a **Senior Full Stack Developer** from **Ahmedabad, India**, who architects 
 | [**Vega Copy Trading**](https://github.com/optimus-node-js/Vega_CopyTrading_Platform) | Copy-trading and trade-analytics engine with self-destruct mode, from 2022 | Python · MongoDB · Matplotlib |
 | [**ExpenseTracker**](https://github.com/optimus-node-js/ExpenseTracker) | Personal finance manager with PDF/Excel bank-statement import | React · TS · Express · MongoDB |
 | [**VaultLove**](https://github.com/optimus-node-js/VaultLove) | Encrypted couples' memory vault with biometric lock and realtime chat | Expo · React Native · Firebase |
-| [**SmartTranslator**](https://github.com/optimus-node-js/smartTranslator) · [live](https://smart-translator-rahulgifasus-projects.vercel.app) | Real-time translator for 100+ languages | MERN · MUI |
+| [**SmartTranslator**](https://github.com/optimus-node-js/smartTranslator) · [live](https://smart-translator.vercel.app) | Real-time translator for 100+ languages | MERN · MUI |
 | [**CrowdFix (civic issue tracker)**](https://github.com/optimus-node-js/CrowdSourcePlatform) · [live](https://crowd-source-platform-backend.vercel.app) | Report local civic issues, rally neighbours, track fixes to resolution | MERN · Vite · Vercel |
 | [**SpaceX Launch Explorer**](https://github.com/optimus-node-js/SpaceX-Launch-Explorer) · [live](https://spacex-launch-explorer.vercel.app) | Search, filter and explore SpaceX launches | React · Mantine · Zustand · React Query |
 | [**Portfolio Tracker suite**](https://github.com/optimus-node-js/Portfolio-Tracker-Frontend) · [live](https://portfolio-tracker-frontend-2.vercel.app/) | Angel One portfolio ingestion, API and dashboard | Python · TS · Express · React |
