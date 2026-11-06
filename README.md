@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rahul Vishwakarma 👋</h1>
+<h1 align="center">Hi, I'm Rahul Vishwakarma</h1>
 <h3 align="center">Senior Full Stack Developer · Multi-tenant SaaS · TypeScript / Node.js / React / Next.js / PostgreSQL / GCP</h3>
 
 <p align="center">
@@ -10,34 +10,34 @@
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
 I'm a **Senior Full Stack Developer** from **Ahmedabad, India**, who architects and scales **multi-tenant SaaS platforms and booking marketplaces** across healthcare, education and social domains. I own systems end to end: backend architecture, **ACL/RBAC security**, mobile apps, database migrations, cloud deployments and high-priority production support.
 
-- 🏥 Scaled a **multi-tenant healthcare SaaS** serving **20+ clinics & pharmacies** and **5,000+ patients**, with **99.9% uptime** on GCP
-- 🛒 Delivered an entire **services marketplace module in 4 months**, shipped to production on deadline
-- 🔐 Designed **3-tier ACL/RBAC** with ownership checks on every API, and found **50+ vulnerabilities** in a Blue Team initiative
-- 📱 Shipped **Android & iOS** apps with CapacitorJS, including a Google Play approval for a Next.js WebView app
-- 🤖 Built a **WhatsApp AI booking agent** (OpenAI tool calling + Twilio) in under 24 hours
-- 📈 After hours, I build **algorithmic-trading systems** on Angel One SmartAPI for NSE markets
+- Scaled a **multi-tenant healthcare SaaS** serving **20+ clinics & pharmacies** and **5,000+ patients**, with **99.9% uptime** on GCP
+- Delivered an entire **services marketplace module in 4 months**, shipped to production on deadline
+- Designed **3-tier ACL/RBAC** with ownership checks on every API, and found **50+ vulnerabilities** in a Blue Team initiative
+- Shipped **Android & iOS** apps with CapacitorJS, including a Google Play approval for a Next.js WebView app
+- Built a **WhatsApp AI booking agent** (OpenAI tool calling + Twilio) in under 24 hours
+- After hours, I build **algorithmic-trading systems** on Angel One SmartAPI for NSE markets
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |---|---|---|
-| **Full Stack Developer** | Hind Social Network Pvt. Ltd. · Ahmedabad | May 2026 – Oct 2026 |
-| **Full Stack Developer** | Script Assist UK · Remote (London) | Nov 2024 – May 2026 |
-| **Full Stack Developer** | Student Diwan · Qatar | May 2024 – Feb 2025 |
-| **Freelance Backend Developer** | Self-employed · Remote | Aug 2023 – Feb 2024 |
-| **Space Launch Vehicle Intern** | Omspace Rocket & Exploration · Ahmedabad | Dec 2022 – Jan 2023 |
+| **Full Stack Developer** | Hind Social Network Pvt. Ltd. · Ahmedabad | May 2026 - Oct 2026 |
+| **Full Stack Developer** | Script Assist UK · Remote (London) | Nov 2024 - May 2026 |
+| **Full Stack Developer** | Student Diwan · Qatar | May 2024 - Feb 2025 |
+| **Freelance Backend Developer** | Self-employed · Remote | Aug 2023 - Feb 2024 |
+| **Space Launch Vehicle Intern** | Omspace Rocket & Exploration · Ahmedabad | Dec 2022 - Jan 2023 |
 
-🎓 **B.Tech, Computer Science & Engineering**, Bansal Institute of Research Technology & Science, Bhopal (2019–2023, 7.91 CGPA)
+ **B.Tech, Computer Science & Engineering**, Bansal Institute of Research Technology & Science, Bhopal (2019-2023, 7.91 CGPA)
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -53,25 +53,25 @@ I'm a **Senior Full Stack Developer** from **Ahmedabad, India**, who architects 
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🧑‍💻 [**Portfolio**](https://github.com/optimus-node-js/Full-Stack-Developer-Portfolio) · [live](https://rahul-vishwakarma-portfolio.vercel.app/) | Multi-page portfolio with interactive terminal, AI chatbot and case studies | React · TS · Framer Motion · Vercel |
-| 🤖 [**Business Pro (project-ai)**](https://github.com/optimus-node-js/project-ai) | Mobile-first AI SaaS that automates social-media marketing for local businesses | NestJS · Next.js · Capacitor · Postgres |
-| 🧩 [**Explain This Error**](https://github.com/optimus-node-js/Explain-This-Error) | Chrome DevTools extension that explains errors with AI and suggests fixes | React · TS · Fastify · OpenAI · Prisma |
-| ⚡ [**algoFinance**](https://github.com/optimus-node-js/algoFinance) | Microservice algo-trading platform: Kafka, Redis, sentiment, risk, AI signals | Python · FastAPI · Kafka · Docker |
-| 📊 [**Finance-Algo**](https://github.com/optimus-node-js/Finance-Algo) | NSE paper-trading engine with momentum scanner and tax-aware ledger | FastAPI · Postgres · Angel One |
-| 📈 [**Vega Copy Trading**](https://github.com/optimus-node-js/Vega_CopyTrading_Platform) | Copy-trading and trade-analytics engine with self-destruct mode, from 2022 | Python · MongoDB · Matplotlib |
-| 💸 [**ExpenseTracker**](https://github.com/optimus-node-js/ExpenseTracker) | Personal finance manager with PDF/Excel bank-statement import | React · TS · Express · MongoDB |
-| 💖 [**VaultLove**](https://github.com/optimus-node-js/VaultLove) | Encrypted couples' memory vault with biometric lock and realtime chat | Expo · React Native · Firebase |
-| 🌐 [**SmartTranslator**](https://github.com/optimus-node-js/smartTranslator) · [live](https://smart-translator.vercel.app) | Real-time translator for 100+ languages | MERN · MUI |
-| 🧠 [**Problem Solver Platform**](https://github.com/optimus-node-js/CrowdSourcePlatform) · [live](https://crowd-source-platform.vercel.app) | Crowd-sourced problems and solutions with live voting | MERN · Socket.IO · Redux |
-| 🚀 [**SpaceX Launch Explorer**](https://github.com/optimus-node-js/SpaceX-Launch-Explorer) · [live](https://spacex-launch-explorer.vercel.app) | Search, filter and explore SpaceX launches | React · Mantine · Zustand · React Query |
-| 📉 [**Portfolio Tracker suite**](https://github.com/optimus-node-js/Portfolio-Tracker-Frontend) · [live](https://portfolio-tracker-frontend-2.vercel.app/) | Angel One portfolio ingestion, API and dashboard | Python · TS · Express · React |
+| [**Portfolio**](https://github.com/optimus-node-js/Full-Stack-Developer-Portfolio) · [live](https://rahul-vishwakarma-portfolio.vercel.app/) | Multi-page portfolio with interactive terminal, AI chatbot and case studies | React · TS · Framer Motion · Vercel |
+| [**Business Pro (project-ai)**](https://github.com/optimus-node-js/project-ai) | Mobile-first AI SaaS that automates social-media marketing for local businesses | NestJS · Next.js · Capacitor · Postgres |
+| [**Explain This Error**](https://github.com/optimus-node-js/Explain-This-Error) | Chrome DevTools extension that explains errors with AI and suggests fixes | React · TS · Fastify · OpenAI · Prisma |
+| [**algoFinance**](https://github.com/optimus-node-js/algoFinance) | Microservice algo-trading platform: Kafka, Redis, sentiment, risk, AI signals | Python · FastAPI · Kafka · Docker |
+| [**Finance-Algo**](https://github.com/optimus-node-js/Finance-Algo) | NSE paper-trading engine with momentum scanner and tax-aware ledger | FastAPI · Postgres · Angel One |
+| [**Vega Copy Trading**](https://github.com/optimus-node-js/Vega_CopyTrading_Platform) | Copy-trading and trade-analytics engine with self-destruct mode, from 2022 | Python · MongoDB · Matplotlib |
+| [**ExpenseTracker**](https://github.com/optimus-node-js/ExpenseTracker) | Personal finance manager with PDF/Excel bank-statement import | React · TS · Express · MongoDB |
+| [**VaultLove**](https://github.com/optimus-node-js/VaultLove) | Encrypted couples' memory vault with biometric lock and realtime chat | Expo · React Native · Firebase |
+| [**SmartTranslator**](https://github.com/optimus-node-js/smartTranslator) · [live](https://smart-translator.vercel.app) | Real-time translator for 100+ languages | MERN · MUI |
+| [**Problem Solver Platform**](https://github.com/optimus-node-js/CrowdSourcePlatform) · [live](https://crowd-source-platform.vercel.app) | Crowd-sourced problems and solutions with live voting | MERN · Socket.IO · Redux |
+| [**SpaceX Launch Explorer**](https://github.com/optimus-node-js/SpaceX-Launch-Explorer) · [live](https://spacex-launch-explorer.vercel.app) | Search, filter and explore SpaceX launches | React · Mantine · Zustand · React Query |
+| [**Portfolio Tracker suite**](https://github.com/optimus-node-js/Portfolio-Tracker-Frontend) · [live](https://portfolio-tracker-frontend-2.vercel.app/) | Angel One portfolio ingestion, API and dashboard | Python · TS · Express · React |
 
 <details>
-<summary><b>📁 More trading & fintech tools</b></summary>
+<summary><b> More trading & fintech tools</b></summary>
 
 - [MarketMind-AI](https://github.com/optimus-node-js/MarketMind-AI): AI market-analysis platform with Angel One integration
 - [AlgoDividendo](https://github.com/optimus-node-js/AlgoDividendo): Angel One portfolio and dividend automation (multithreaded and asyncio)
@@ -84,7 +84,7 @@ I'm a **Senior Full Stack Developer** from **Ahmedabad, India**, who architects 
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=optimus-node-js&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
@@ -96,11 +96,11 @@ I'm a **Senior Full Stack Developer** from **Ahmedabad, India**, who architects 
 
 ---
 
-## 🌱 Beyond code
+## Beyond code
 
-- 🏅 **Bronze Medalist**, Q-ki National Championship, Commutiny – The Youth Collective (2021)
-- 🗄️ **Tech Lead, Database Management**, Commutiny: managed program data for 30+ NGOs across India
-- 🎤 **Co-founder & Head**, Express Yourself Community, Indore (2020–2022)
-- 🗣️ Hindi (native) · English (fluent)
+- **Bronze Medalist**, Q-ki National Championship, Commutiny - The Youth Collective (2021)
+- **Tech Lead, Database Management**, Commutiny: managed program data for 30+ NGOs across India
+- **Co-founder & Head**, Express Yourself Community, Indore (2020-2022)
+- Hindi (native) · English (fluent)
 
 <p align="center"><i>Open to Senior Full Stack / Backend roles. Let's build something great together.</i></p>
